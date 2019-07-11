@@ -1,6 +1,7 @@
 # Android-Backened
 Title: Online Vehicle Booking
 College Id: 160369
+University ID : 9636002
 
 Introduction:
 
@@ -21,7 +22,11 @@ developed applications. It will be all about online system through which people 
 reserve the one which they prefer in term of cost, size and many others. Every work needs to be performed online. 
 
 Features:
-Login: After the successful login user can view different vehicles
-Register: User need to enroll themselves by submitting their information. Simply after successful registration user will almost certainly view diverse vehicles and book them.
-Booking Vehicles: User can undoubtedly book the vehicles by tapping on the book button.
-Contact us: User can contact the administrator by submitting the contact form in case of any queries related to booking.
+
+- Online Login and Registration.
+- Through the web application different users can book vehicles online and those information will be displayed in an android app.
+- Promixity sensor is included and Vibration sensor is also used.
+- Shared preferences is used in order to save data offline.
+- Can display all the booked vehicles on a mobile phone.
+- Online users who have registered accounts can change their accounts passcode.
+- Application can be displayed in wearable devices.
